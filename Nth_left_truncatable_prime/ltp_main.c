@@ -78,7 +78,7 @@ int main(int argc, char **argv)
 {
 	if (argc < 2)
 	{
-		printf ("Usage: ltp_sol <nth_ltp>\n");
+		printf ("Usage: Nth_left_truncatable_prime <nth_ltp>\n");
 		return 0;
 	}
 
