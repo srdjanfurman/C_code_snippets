@@ -5,6 +5,7 @@
 **Description**
 ```
 This is a program in C for an embedded system that reads in a single integer, n (1 ≤ n ≤ 2166), and outputs the nth left-truncatable prime.
+https://en.wikipedia.org/wiki/Truncatable_prime
 ```
 **Example:**
 ```
