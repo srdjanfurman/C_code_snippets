@@ -77,3 +77,16 @@ Source code:
 
 The elapsed time during execution is approximately 1 second for the 2166-th LTP.
 ```
+
+## weighted_moving_average_filter
+
+**Description**
+```
+A weighted average is an average that has multiplying factors to give different weights to data at different positions in the sample window.
+https://en.wikipedia.org/wiki/Moving_average
+```
+**Example:**
+```
+Input data set: 0, 1, 5, 50, 200, 500, 1000, 500, 200, 50, 5, 1, 0.
+Expected output data set: 0, 0, 1, 18, 81, 230, 513, 563, 480, 336, 188, 71, 21.
+```
