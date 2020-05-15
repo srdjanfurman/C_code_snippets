@@ -1,4 +1,11 @@
-# Debug files
-Nth_left_truncatable_prime/Debug/
-Nth_left_truncatable_prime/.cproject
-Nth_left_truncatable_prime/.project
+# Debug and project files
+
+nth_left_truncatable_prime/Debug
+nth_left_truncatable_prime/.cproject
+nth_left_truncatable_prime/.project
+nth_left_truncatable_prime/.settings
+
+weighted_moving_average_filter/Debug
+weighted_moving_average_filter/.cproject
+weighted_moving_average_filter/.project
+weighted_moving_average_filter/.settings
