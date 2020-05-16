@@ -5,6 +5,12 @@ nth_left_truncatable_prime/.cproject
 nth_left_truncatable_prime/.project
 nth_left_truncatable_prime/.settings
 
+nth_left_truncatable_prime_stm32/nth_left_truncatable_prime_stm32.ioc
+nth_left_truncatable_prime_stm32/Drivers
+nth_left_truncatable_prime_stm32/Inc
+nth_left_truncatable_prime_stm32/SW4STM32
+nth_left_truncatable_prime_stm32/.mxproject
+
 weighted_moving_average_filter/Debug
 weighted_moving_average_filter/.cproject
 weighted_moving_average_filter/.project
